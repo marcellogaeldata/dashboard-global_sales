@@ -10,7 +10,7 @@ This project involved the development of a robust BI ecosystem for the multinati
 ---
 
 ## Visualização | Preview
-![Global Sales Dashboard](Global Sales and Profit Performance.jpg)
+![Global Sales Dashboard](./Global%20Sales%20and%20Profit%20Performance.jpg)
 
 ---
 
