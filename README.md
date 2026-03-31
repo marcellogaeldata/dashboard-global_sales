@@ -1,16 +1,15 @@
 # Dashboard de Vendas Globais e Rentabilidade 📊🌍
 ## Global Sales & Profitability Dashboard 📈
 
+![Global Sales Dashboard](./Global%20Sales%20and%20Profit%20Performance.jpg)
+
+---
+
 ### 🇧🇷 Descrição do Projeto
 Este projeto consistiu no desenvolvimento de um ecossistema de BI robusto voltado para o mercado multinacional. O objetivo foi unificar dados fragmentados de vendas globais em uma visão estratégica clara, facilitando decisões sobre lucratividade geográfica e eficiência operacional internacional.
 
 ### 🇺🇸 Project Description
 This project involved the development of a robust BI ecosystem for the multinational market. The goal was to unify fragmented global sales data into a clear strategic view, facilitating decisions on geographic profitability and international operational efficiency.
-
----
-
-## Visualização | Preview
-![Global Sales Dashboard](./Global%20Sales%20and%20Profit%20Performance.jpg)
 
 ---
 
