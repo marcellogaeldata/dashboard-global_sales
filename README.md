@@ -1,16 +1,12 @@
 # Dashboard de Vendas Globais e Rentabilidade 📊🌍
 ## Global Sales & Profitability Dashboard 📈
 
-![Global Sales Dashboard](./Global%20Sales%20and%20Profit%20Performance.jpg)
+<div align="center">
+  <img src="global%20sales.png" alt="Global Sales Dashboard" width="100%">
+</div>
 
 ---
 
-Aqui estão os códigos prontos para a seção de Descrição do Projeto, mantendo o padrão de 20 pixels para títulos principais (##):
-
-📝 Bloco de Descrição do Projeto
-Substitua as linhas correspondentes por estas:
-
-Markdown
 ## <img src="https://flagcdn.com/24x18/br.png" width="20"> Descrição do Projeto
 Este projeto consistiu no desenvolvimento de um ecossistema de BI robusto voltado para o mercado multinacional. O objetivo foi unificar dados fragmentados de vendas globais em uma visão estratégica clara, facilitando decisões sobre lucratividade geográfica e eficiência operacional internacional.
 
@@ -42,6 +38,9 @@ This project involved the development of a robust BI ecosystem for the multinati
 * **Data Source:** Dataset empresarial de vendas globais (E-commerce).
 
 ---
-## Como visualizar | How to view
-Para interagir com os filtros, baixe o arquivo `.pbix`. 
-To interact with filters, please download the `.pbix` file.
+
+## 🖥️ Como visualizar | How to view
+Para interagir com os filtros, baixe o arquivo `.pbix` neste repositório.  
+To interact with filters, please download the `.pbix` file in this repository.
+
+
