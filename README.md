@@ -2,7 +2,7 @@
 ## Global Sales & Profitability Dashboard 📈
 
 <div align="center">
-  <img src="global%20sales.png" alt="Global Sales Dashboard" width="100%">
+  <img src="Global_Sales-1.png" alt="Global Sales Dashboard" width="100%">
 </div>
 
 ---
@@ -27,6 +27,7 @@ This project involved the development of a robust BI ecosystem for the multinati
 * **Advanced Geographic Analysis:** Integration with ArcGIS maps to identify revenue leaders by continent and country.
 * **Trend Monitoring:** Dynamic charts for monthly sales and profit tracking.
 * **Institutional UI/UX:** Design focused on central KPIs (*Sales, Profit, Margin*) with an executive palette.
+* **Internationalization:** Dashboard fully configured in English, simulating a real-world global reporting environment.
 
 ---
 
