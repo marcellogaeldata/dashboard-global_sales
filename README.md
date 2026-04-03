@@ -27,7 +27,6 @@ This project involved the development of a robust BI ecosystem for the multinati
 * **Advanced Geographic Analysis:** Integration with ArcGIS maps to identify revenue leaders by continent and country.
 * **Trend Monitoring:** Dynamic charts for monthly sales and profit tracking.
 * **Institutional UI/UX:** Design focused on central KPIs (*Sales, Profit, Margin*) with an executive palette.
-* **Internationalization:** Dashboard fully configured in English, simulating a real-world global reporting environment.
 
 ---
 
